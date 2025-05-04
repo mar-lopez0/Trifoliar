@@ -1,0 +1,47 @@
+#trifoliar1 {
+    border: 2px solid black;
+    width: 1800px;
+    height: 800px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+}
+.seccion1 {
+    border: 1px solid black;
+    width: 600px; 
+    height: 800px;
+}
+.seccion2 {
+    border: 1px solid black;
+    width: 600px; 
+    height: 800px;
+}
+.seccion3 {
+    border: 1px solid black;
+    width: 600px; 
+    height: 800px;
+}
+
+#trifoliar2 {
+    border: 2px solid black;
+    width: 1800px;
+    height: 800px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+}
+.seccion4 {
+    border: 1px solid black;
+    width: 600px; 
+    height: 800px;
+}
+.seccion5 {
+    border: 1px solid black;
+    width: 600px; 
+    height: 800px;
+}
+.seccion6 {
+    border: 1px solid black;
+    width: 600px; 
+    height: 800px;
+}
